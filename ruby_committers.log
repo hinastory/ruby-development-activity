@@ -1,0 +1,284 @@
+ 16567	nobu <nobu@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+  4746	akr <akr@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+  4340	svn <svn@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+  2728	naruse <naruse@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+  2562	matz <matz@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+  2357	ko1 <ko1@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+  2050	usa <usa@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+  1414	eban <eban@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+  1168	kazu <kazu@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+  1166	Nobuyoshi Nakada <nobu@ruby-lang.org>
+  1076	hsbt <hsbt@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+  1063	normal <normal@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   939	mame <mame@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   876	k0kubun <k0kubun@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   796	drbrain <drbrain@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   773	knu <knu@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   633	kosaki <kosaki@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   550	shugo <shugo@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   518	zzak <zzak@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   486	tadf <tadf@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   470	shyouhei <shyouhei@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   463	tenderlove <tenderlove@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   448	aamine <aamine@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   442	marcandre <marcandre@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   413	duerst <duerst@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   408	nagai <nagai@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   372	Takashi Kokubun <takashikkbn@gmail.com>
+   351	kou <kou@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   349	aycabta <aycabta@gmail.com>
+   346	mrkn <mrkn@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   316	eregon <eregon@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   315	ocean <ocean@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   312	suke <suke@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   306	Hiroshi SHIBATA <hsbt@ruby-lang.org>
+   298	yugui <yugui@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   292	Jeremy Evans <code@jeremyevans.net>
+   290	Yusuke Endoh <mame@ruby-lang.org>
+   257	gotoyuzo <gotoyuzo@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   253	nagachika <nagachika@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   247	nahi <nahi@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   234	Kazuhiro NISHIYAMA <zn@mbf.nifty.com>
+   229	David Rodríguez <deivid.rodriguez@riseup.net>
+   205	git <svn@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   192	yui-knk <yui-knk@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   188	stomar <stomar@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   187	ktsj <ktsj@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   181	glass <glass@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   177	Koichi Sasada <ko1@atdot.net>
+   159	ngoto <ngoto@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   158	dave <dave@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   145	rhe <rhe@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   141	git <svn-admin@ruby-lang.org>
+   129	emboss <emboss@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   126	卜部昌平 <shyouhei@ruby-lang.org>
+   124	seki <seki@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   121	nari <nari@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   114	sorah <sorah@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   112	ttate <ttate@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   108	ryan <ryan@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+   100	Aaron Patterson <tenderlove@ruby-lang.org>
+    96	tarui <tarui@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    92	keiju <keiju@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    90	ayumin <ayumin@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    90	xibbar <xibbar@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    89	charliesome <charliesome@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    87	Benoit Daloze <eregontp@gmail.com>
+    85	a_matsuda <a_matsuda@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    83	tmm1 <tmm1@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    81	why <why@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    78	shirosaki <shirosaki@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    75	Samuel Williams <samuel.williams@oriontransfer.co.nz>
+    73	shigek <shigek@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    67	wanabe <wanabe@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    56	gsinclair <gsinclair@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    53	samuel <samuel@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    52	jeg2 <jeg2@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    51	bronzdoc <lsagastume1990@gmail.com>
+    46	azav <azav@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    46	ser <ser@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    44	kouji <kouji@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    40	odaira <odaira@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    39	akira <akira@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    38	wakou <wakou@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    37	headius <headius@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    37	michal <michal@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    36	Urabe, Shyouhei <shyouhei@ruby-lang.org>
+    36	sonots <sonots@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    33	ksaito <ksaito@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    32	NARUSE, Yui <naruse@airemix.jp>
+    32	gogotanaka <gogotanaka@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    29	takano32 <takano32@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    26	Alan Wu <XrXr@users.noreply.github.com>
+    26	ntalbott <ntalbott@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    25	luislavena <luislavena@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    22	Kouhei Sutou <kou@clear-code.com>
+    22	arton <arton@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    21	NAKAMURA Usaku <usa@ruby-lang.org>
+    21	kanemoto <kanemoto@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    21	kosako <kosako@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    20	aycabta <aycabta@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    19	watson1978 <watson1978@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    18	dblack <dblack@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    18	manga_osyo <manga.osyo@gmail.com>
+    17	H_Konishi <H_Konishi@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    17	Lourens Naudé <lourens@bearmetal.eu>
+    17	mneumann <mneumann@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    17	uema2 <uema2@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    16	John Hawthorn <john@hawthorn.email>
+    16	zverok <zverok.offline@gmail.com>
+    15	Kazuki Tsujimoto <kazuki@callcc.net>
+    15	technorama <technorama@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    14	MSP-Greg <MSP-Greg@users.noreply.github.com>
+    13	Jean Boussier <jean.boussier@gmail.com>
+    13	Kenichi Kamiya <kachick1@gmail.com>
+    13	Marcus Stollsteimer <sto.mar@web.de>
+    13	Tanaka Akira <akr@fsij.org>
+    13	davidflanagan <davidflanagan@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    11	muraken <muraken@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    11	sho-h <sho-h@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+    10	Alexander Pakulov <apakulov@stripe.com>
+     9	Samuel Giddins <segiddins@segiddins.me>
+     8	Aaron Patterson <aaron.patterson@gmail.com>
+     8	katsu <katsu@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     8	yuki <yuki@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     7	Martin Dürst <duerst@it.aoyama.ac.jp>
+     7	Masaki Matsushita <glass.saga@gmail.com>
+     7	SHIBATA Hiroshi <hsbt@ruby-lang.org>
+     6	Josh Cheek <josh.cheek@gmail.com>
+     6	Luke Gruber <luke.gru@gmail.com>
+     6	Masatoshi SEKI <m_seki@mva.biglobe.ne.jp>
+     6	Watson <watson1978@gmail.com>
+     6	Yuki Nishijima <yk.nishijima@gmail.com>
+     6	siena <siena@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     6	sonots <sonots@gmail.com>
+     5	jim <jim@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     5	tadd <tadd@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     5	wew <wew@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     4	Akinori MUSHA <knu@idaemons.org>
+     4	Shugo Maeda <shugo@ruby-lang.org>
+     4	gotoken <gotoken@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     4	nagachika <nagachika@ruby-lang.org>
+     4	okkez <okkez@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     3	Burdette Lamar <BurdetteLamar@Yahoo.com>
+     3	Charles Oliver Nutter <headius@headius.com>
+     3	Colby Swandale <me@colby.fyi>
+     3	Dylan Thacker-Smith <Dylan.Smith@shopify.com>
+     3	Espartaco Palma <esparta@gmail.com>
+     3	Guillermo Guerrero <wolf.fox1985@gmail.com>
+     3	Jun Aruga <junaruga@users.noreply.github.com>
+     3	Justin McNally <justin@chowlyinc.com>
+     3	Kazuhiro NISHIYAMA <znz@users.noreply.github.com>
+     3	Koichi Sasada <ko1@cookpad.com>
+     3	Masataka Pocke Kuwabara <kuwabara@pocke.me>
+     3	OKURA Masafumi <masafumi.o1988@gmail.com>
+     3	Seiei Miyagi <hanachin@gmail.com>
+     3	Sutou Kouhei <kou@clear-code.com>
+     3	Sutou Kouhei <kou@cozmixng.org>
+     3	Yuichiro Kaneko <yui-knk@ruby-lang.org>
+     3	akiyoshi <akiyoshi@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     3	evan <evan@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     3	hone <hone@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     3	iwamatsu <iwamatsu@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     2	Adam Cammack <adam_cammack@rapid7.com>
+     2	Akira Matsuda <ronnie@dio.jp>
+     2	BurdetteLamar <burdettelamar@yahoo.com>
+     2	David CARLIER <devnexen@gmail.com>
+     2	David Carlier <devnexen@gmail.com>
+     2	Dylan Thacker-Smith <dylan.smith@shopify.com>
+     2	Florian Frank <flori@ping.de>
+     2	Gannon McGibbon <gannon.mcgibbon@gmail.com>
+     2	George Claghorn <george@basecamp.com>
+     2	Jun Aruga <jaruga@redhat.com>
+     2	K.Takata <kentkt@csc.jp>
+     2	KOSAKI Motohiro <kosaki.motohiro@gmail.com>
+     2	Kenta Murata <mrkn@users.noreply.github.com>
+     2	Lars Kanis <lars@greiz-reinsdorf.de>
+     2	Maxime Lapointe <hunter_spawn@hotmail.com>
+     2	Olivier Lacan <hi@olivierlacan.com>
+     2	Sho Hashimoto <sho.hsmt@gmail.com>
+     2	Steven Willis <onlynone@gmail.com>
+     2	Vít Ondruch <vondruch@redhat.com>
+     2	Y. Ushiki <citrus.yubeshi@gmail.com>
+     2	f <f@sutty.nl>
+     2	mihaibuzgau <mihai.buzgau@puppet.com>
+     2	okuramasafumi <masafumi.o1988@gmail.com>
+     2	wanabe <s.wanabe@gmail.com>
+     1	(no author) <(no author)@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     1	Aaron Patterson <tenderlove@github.com>
+     1	Adam Wanninger <ajwann@ajwann.com>
+     1	Alfonso Jiménez <me@alfie.cat>
+     1	Alyssa Ross <hi@alyssa.is>
+     1	Anton Davydov <antondavydov.o@gmail.com>
+     1	Antonio Terceiro <asa@terceiro.xyz>
+     1	Ary Borenszweig <asterite@gmail.com>
+     1	Ben Woosley <ben.woosley@gmail.com>
+     1	Breno Leitao <breno.leitao@gmail.com>
+     1	Bundlerbot <bot@bundler.io>
+     1	Chris Seaton <chris@chrisseaton.com>
+     1	Corey Farwell <coreyf@rwell.org>
+     1	Daisuke Fujimura (fd0) <booleanlabel@gmail.com>
+     1	Daniel Berger <dberger@redhat.com>
+     1	Daniel Berger <djberg96@gmail.com>
+     1	Daniel Radetsky <dradetsky@gmail.com>
+     1	David Stosik <david.stosik+git-noreply@gmail.com>
+     1	Dmitry Petrashko <dark@d-d.me>
+     1	Eli Sadoff <9064062+snood1205@users.noreply.github.com>
+     1	Ellen Marie Dash <the@smallest.dog>
+     1	Eric Wong <normal@ruby-lang.org>
+     1	FUJI Goro (gfx) <gfuji@cpan.org>
+     1	Fangrui Song <i@maskray.me>
+     1	Fernando Wolf Bona <bonafernando@gmail.com>
+     1	Gabriel Nagy <gabrielnagy@me.com>
+     1	Iain Barnett <github@strachanclan.xyz>
+     1	Ivo Wever <ivo.wever@gmail.com>
+     1	James Clarke <jrtc27@jrtc27.com>
+     1	Jean byroot Boussier <jean.boussier+github@shopify.com>
+     1	Jesús Burgos Maciá <jburmac@gmail.com>
+     1	Jordan Owens <jkowens@gmail.com>
+     1	Junichi Ito <jit@sonicgarden.jp>
+     1	Justin Collins <justin@presidentbeef.com>
+     1	Kevin Deisz <kevin.deisz@gmail.com>
+     1	Konstantin Papkovskiy <konstantin@papkovskiy.com>
+     1	Lars Kanis <kanis@comcard.de>
+     1	Lars Kanis <larskanis@gmail.com>
+     1	MSP-Greg (Greg L) <Greg.mpls@gmail.com>
+     1	Maciej Mensfeld <maciej@mensfeld.pl>
+     1	Mark Abraham <mark.j.abraham@gmail.com>
+     1	Masafumi Koba <473530+ybiquitous@users.noreply.github.com>
+     1	Masato Ohba <masato.ohba@quipper.com>
+     1	Masato Ohba <over.rye@gmail.com>
+     1	Matt Valentine-House <matt@eightbitraptor.com>
+     1	Miklos Fazekas <mfazekas@szemafor.com>
+     1	NagayamaRyoga <38316184+NagayamaRyoga@users.noreply.github.com>
+     1	Namrata Bhave <Namrata.Bhave@ibm.com>
+     1	Naohisa Goto <ngotogenome@gmail.com>
+     1	Neeraj Bhunwal <neeraj.bhunwal@gmail.com>
+     1	Nikolai B <nikolai-b@users.noreply.github.com>
+     1	Pavel Valena <pvalena@redhat.com>
+     1	Paweł Przeniczny <pawel.przeniczny@airhelp.com>
+     1	Pocket7878 <poketo7878@gmail.com>
+     1	Prajjwal Singh <sin@prajjwal.com>
+     1	Rafael Mendonça França <rafaelmfranca@gmail.com>
+     1	Rei Odaira <rodaira@us.ibm.com>
+     1	Richard Viney <richard.viney@gmail.com>
+     1	Rob <mail@robfors.com>
+     1	Romain Tartière <romain@blogreen.org>
+     1	Scott Tesler <ScottieT123@gmail.com>
+     1	Semyon Pupkov <mail@semyonpupkov.com>
+     1	Sho Ito <i.sho.0628@gmail.com>
+     1	Stefan Schüßler <mail@stefanschuessler.de>
+     1	Steven Harman <steven@harmanly.com>
+     1	Takayuki Nakata <f.seasons017@gmail.com>
+     1	Thomas Leitner <t_leitner@gmx.at>
+     1	Tomoki Aonuma <uasi@uasi.jp>
+     1	Vít Ondruch <v.ondruch@tiscali.cz>
+     1	Will Binns <will@trek.io>
+     1	Yaw Boakye <wheresyaw@gmail.com>
+     1	Yuki Yugui Sonoda <yugui@yugui.jp>
+     1	Zehan Zhao <cnallenzhao@gmail.com>
+     1	arai <arai@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     1	d0 (Daisuke Fujimura) <booleanlabel@gmail.com>
+     1	glaszig <glaszig@gmail.com>
+     1	hayashiyoshino <twinklestaryoshino@gmail.com>
+     1	iain barnett <iainspeed@gmail.com>
+     1	kawa_tech <49791334+kaerunote@users.noreply.github.com>
+     1	ksss <co000ri@gmail.com>
+     1	lolwut <lol@wut.com>
+     1	masakazutakewaka <takewakamma@gmail.com>
+     1	ohbarye <over.rye@gmail.com>
+     1	osyo-manga <manga.osyo@gmail.com>
+     1	pavel <pavel.rosicky@easy.cz>
+     1	poloka <greg.howdeshell@gmail.com>
+     1	robuye <rulejczyk@gmail.com>
+     1	schneems <richard.schneeman+foo@gmail.com>
+     1	songhuangcn <git@songhuangcn.com>
+     1	takkanm <takkanm@gmail.com>
+     1	thekuwayama <thekuwayama@gmail.com>
+     1	tommy <kazu9su@gmail.com>
+     1	ts <ts@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     1	ujihisa <ujihisa@users.noreply.github.com>
+     1	y-yagi <yuuji.yaginuma@gmail.com>
+     1	yuuji.yaginuma <yuuji.yaginuma@gmail.com>
+     1	zsombor <zsombor@b2dd03c8-39d4-4d8f-98ff-823fe69b080e>
+     1	Étienne Barrié <etienne.barrie@gmail.com>
